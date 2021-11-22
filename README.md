@@ -1,1 +1,1 @@
-# ICS4U-Intro-06-java-swift
+# ICS4U-Intro-06-helloworld-swift
